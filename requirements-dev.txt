@@ -17,3 +17,4 @@ six==1.11.0
 static3==0.7.0
 wincertstore==0.2
 wrapt==1.10.11
+install whitenoise==3.2.1
